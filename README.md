@@ -29,7 +29,7 @@ You Can Click Here To Go To The Project Website Directly [Temprature Wizard](htt
 
 To get started with Temperature Wizard, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/alok-2002/Temperature_Wizard.git`
+1. Clone the repository: `git clone https://github.com/harshai07/Temperature_Wizard.git`
 2. Navigate to the project directory: `cd Temperature_Wizard`
 3. Open the `index.html` file in your web browser.
 
